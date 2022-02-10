@@ -35,7 +35,7 @@
     "cssmin": "^0.4.3",
     "dir-at-st": "0.0.8",
     "livereload": "^0.6.0",
-    "node-sass": "^4.5.0",
+    "node-sass": "^7.0.0",
     "rocket-tools": "^1.13.0",
     "rollup": "^0.48.2",
     "shelljs": "^0.7.6",
